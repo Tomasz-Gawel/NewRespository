@@ -1,0 +1,97 @@
+
+h1{
+  font-family:"Big Shoulders Display"sans-serif;
+  font-weight: 700;
+  color: #FFFFFF;
+text-align:left;
+margin-left: 50px;
+}
+
+p{
+margin-top: 60px;
+margin-left: 40px;
+margin-right: 40px;
+font-family:"Lexend Deca",sans-serif;
+font-weight: 400;
+color: #FFFFFF;
+text-align:left;
+line-height: 20px;
+}
+
+
+.icon-sedans{
+
+
+
+  margin-top: 50px;
+  margin-right: 150px;
+}
+.icon-luxury{
+
+  margin-top: 50px;
+  margin-right: 150px;
+
+}
+.icon-suvs{
+
+
+  margin-top: 50px;
+  margin-right: 150px;
+}
+.flex-container{
+margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+justify-content: center;
+
+
+}
+
+.cart1{
+width: 300px;
+height: 500px;
+  background-color: #EEB77C;
+  text-align: center;
+
+}
+.cart2{
+  font-family:Big Shoulders Display;
+width: 300px;
+  background-color:#006970;
+  text-align: center;
+}
+.cart3{
+  width: 300px;
+  background-color:#004241;
+  text-align: center;
+}
+
+.Learn-more1{
+padding: 10px 30px;
+text-align: center;
+margin-top: 100px;
+background-color:#FFFFFF;
+border-radius: 10px;
+border-color: #FFFFFF;
+color:#EEB77C;
+}
+
+.Learn-more2{
+padding: 10px 30px;
+text-align: center;
+margin-top: 100px;
+background-color:#FFFFFF;
+border-radius: 10px;
+border-color: #FFFFFF;
+color:#006970;
+}
+
+.Learn-more3{
+padding: 10px 30px;
+text-align: center;
+margin-top: 100px;
+background-color:#FFFFFF;
+border-radius: 10px;
+border-color: #FFFFFF;
+color:#004241;
+}
